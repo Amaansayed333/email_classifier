@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.csv
+*.env
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+env/
+venv/
